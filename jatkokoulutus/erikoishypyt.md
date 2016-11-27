@@ -312,6 +312,11 @@ tasossa, freeflyssa lennetään kolmiulotteisesti. Nimensä mukaisesti kyse
 on vapaasta lentämisestä, joten vain mielikuvitus on rajana hyppyjä
 suunniteltaessa.
 
+Kilpailuissa freeflyingia hypätään kolmen hengen joukkueilla, joissa yksi
+hyppääjä kuvaa kahden muun suorituksia osallistuen samalla myös itse
+suorituksiin. Hypyllä hyppääjät ottavat erilaisia otteita toisistaan ja
+lentelevät erilaisia kuvioita toisiinsa nähden.
+
 ### Freestyle  
 
 
@@ -326,11 +331,6 @@ toinen hyppääjä kuvaa freestylehyppääjän suorituksen. Suorituksessa
 arvosteltavia ominaisuuksia ovat ohjelman taiteellisuus, vaikeusaste,
 liikkeiden puhtaus ja kuvaajan työskentely. Kilpailuhypyt hypätään 4000
 metrin korkeudesta ja työskentelyaika on 45 sekuntia.
-
-Kilpailuissa freefly:ta hypätään kolmen hengen joukkueilla, joissa yksi
-hyppääjä kuvaa kahden muun suorituksia osallistuen samalla myös itse
-suorituksiin. Hypyllä hyppääjät ottavat erilaisia otteita toisistaan ja
-lentelevät erilaisia kuvioita toisiinsa nähden.
 
 ### Kupukuviohyppääminen  
 
@@ -378,7 +378,7 @@ putoamisnopeuttaan ja liikehtimään tehokkaasti pystysuunnassa.
 
 Ilmakuvaaminen on yksi tapa kehittää itseään hyppääjänä. Se vaatii
 kuitenkin tietoa ja taitoja sekä paljon keskittymistä. Sen vuoksi
-kokemusrajaksi on asetettu C-lisenssi. Jos oma lentotaito ei ole
+kokemusrajaksi on asetettu C-lisenssi. Jos oma lentotaito ja korkeuden havainnointi eivät ole
 hallinnassa, voi seurauksena olla katastrofi. Ennen kuvaamisen
 aloittamista pitää keskustella turvallisuuspäällikön sekä kokeneempien
 kuvaajien kanssa välineistä ja kuvaamiseen liittyvistä asioista.
@@ -413,7 +413,7 @@ vapaapudotuksen aikana pitkiäkin matkoja. Hyvä liitohyppääjä pystyy
 lentämään 3 kilometrin vapaapudotuksen aikana 7–8 kilometrin vaakamatkan
 ja saavuttamaan yli 200 km/h vaakanopeuden.
 
-Liitohyppäämisessä kilpaillaan mm. lajissa nimeltään Acrobatic Wingsuit. Liitopuvulla lentäminen vaikuttaa
+Liitohyppäämisessä kilpaillaan lajeissa Wingsuit Performance ja Wingsuit Acrobatic Flying. Liitopuvulla lentäminen vaikuttaa
 huomattavasti vapaapudotusnopeuteen ja vaatii hyvää kehonhallintaa
 vapaapudotuksen aikana. Liitohyppäämisen aloittaminen Suomessa vaatii
 vähintään A-lisenssin, hyppykokemuksen mukaisen liitopuvun ja koulutuksen sekä lajioppaassa määritellyt vähimmäistaidot.
